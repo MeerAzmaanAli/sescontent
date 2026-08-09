@@ -17,7 +17,7 @@
     {"name":"Water Purification","summary":"RO and filtration systems for domestic and industrial use, sized and installed to demand.","icon":"⌁"},
     {"name":"Electrical Works","summary":"Electrical panel installation, load planning, and wiring for commercial and industrial sites.","icon":"ϟ"},
     {"name":"Solar","summary":"Solar panel installation and system design for domestic and industrial power needs.","icon":"✳"},
-    {"name":"IT — Software & Applications","summary":"Custom software and applications for internal operations and client-facing tools.","icon":"</>","status":"Coming soon"}
+    {"name":"IT — Software & Applications","summary":"Custom software and applications for internal operations and client-facing tools.","icon":"</>"}
   ],
   "about": {
     "heading":"Built on-site, not in a boardroom.",
@@ -30,16 +30,103 @@
     ]
   },
   "projects": [
-    {"discipline":"Fire & Safety","location":"Indore","title":"Warehouse Fire Suppression Retrofit","summary":"Full sprinkler and detection retrofit across a multi-bay logistics warehouse.","icon":"◌"},
-    {"discipline":"HVAC","location":"Indore","title":"Commercial Tower Central AC Design","summary":"End-to-end HVAC design and installation for a nine-floor commercial building.","icon":"◉"},
-    {"discipline":"Electrical","location":"Pithampur","title":"Factory Electrical Panel Overhaul","summary":"Load planning and panel installation across a mid-size manufacturing unit.","icon":"◇"},
-    {"discipline":"Water Purification","location":"Ujjain","title":"Industrial RO Plant Installation","summary":"High-capacity RO and filtration system for a food processing facility.","icon":"⌁"}
-  ],
-  "clients":["CLIENT NAME 01","CLIENT NAME 02","CLIENT NAME 03","CLIENT NAME 04","CLIENT NAME 05","CLIENT NAME 06"],
+  {
+    "discipline": "Fire & Safety",
+    "location": "Indore",
+    "title": "SITC Fire and Safety System at Sevakunj Hospital, LNCT",
+    "summary": "Complete supply, installation, testing and commissioning of fire suppression pipeline, equipment, and pump room at Sevakunj Hospital LNCT.",
+    "icon": "◗",
+    "slug": "sitc-fire-safety-sevakunj-hospital-lnct-indore",
+    "status": "Delivered",
+    "scope": [
+      "Complete supply, installation, testing and commissioning of fire suppression pipeline, equipment, and pump room at Sevakunj Hospital LNCT."
+    ],
+    "gallery": []
+  },
+  {
+    "discipline": "HVAC",
+    "location": "Indore",
+    "title": "SITC HVAC System at IIT Indore",
+    "summary": "Supply, installation, testing and commissioning of HVAC system at IIT Indore.",
+    "icon": "◗",
+    "slug": "sitc-hvac-system-iit-indore",
+    "status": "Delivered",
+    "scope": [
+      "Supply, installation, testing and commissioning of HVAC system at IIT Indore."
+    ],
+    "gallery": []
+  },
+  {
+    "discipline": "Fire & Safety",
+    "location": "Indore",
+    "title": "SITC Fire and Safety System at IIT Indore",
+    "summary": "Supply, installation, testing and commissioning of fire and safety system including pump room at IIT Indore.",
+    "icon": "◗",
+    "slug": "sitc-fire-safety-system-iit-indore",
+    "status": "Delivered",
+    "scope": [
+      "Supply, installation, testing and commissioning of fire and safety system including pump room at IIT Indore."
+    ],
+    "gallery": []
+  },
+  {
+    "discipline": "HVAC",
+    "location": "Pithampur",
+    "title": "Pharma Lab PUFF Panel & HVAC System at Vitamax Healthcare",
+    "summary": "Construction of pharma lab using PUFF panels with supply, installation, testing and commissioning of HVAC system at Vitamax Healthcare, Pithampur.",
+    "icon": "◗",
+    "slug": "pharma-lab-puff-panel-hvac-vitamax-healthcare-pithampur",
+    "status": "Delivered",
+    "scope": [
+      "Construction of pharma lab using PUFF panels with supply, installation, testing and commissioning of HVAC system at Vitamax Healthcare, Pithampur."
+    ],
+    "gallery": []
+  },
+  {
+    "discipline": "Piping",
+    "location": "Indore",
+    "title": "Gas Line SITC at LK City",
+    "summary": "Supply, installation, testing and commissioning of gas line at LK City, Indore.",
+    "icon": "◗",
+    "slug": "gas-line-sitc-lk-city-indore",
+    "status": "Delivered",
+    "scope": [
+      "Supply, installation, testing and commissioning of gas line at LK City, Indore."
+    ],
+    "gallery": []
+  },
+  {
+    "discipline": "HVAC",
+    "location": "Indore",
+    "title": "Cold Room Storage at Bhartiya Enterprises",
+    "summary": "Supply, installation, testing and commissioning of cold room storage system for dates storage at Bhartiya Enterprises, Indore.",
+    "icon": "◗",
+    "slug": "cold-room-storage-bhartiya-enterprises-indore",
+    "status": "Delivered",
+    "scope": [
+      "Supply, installation, testing and commissioning of cold room storage system for dates storage at Bhartiya Enterprises, Indore."
+    ],
+    "gallery": []
+  },
+  {
+    "discipline": "Fire & Safety",
+    "location": "Bhopal",
+    "title": "SITC Fire and Safety System at JK Hospital, LNCT",
+    "summary": "Supply, installation, testing and commissioning of fire and safety system at JK Hospital LNCT, Bhopal.",
+    "icon": "◗",
+    "slug": "sitc-fire-safety-system-jk-hospital-lnct-bhopal",
+    "status": "Delivered",
+    "scope": [
+      "Supply, installation, testing and commissioning of fire and safety system at JK Hospital LNCT, Bhopal."
+    ],
+    "gallery": []
+  }
+],
+  "clients":["IIT Indore","LNCT Group","CPWD Indore","AKVAN","Voltas","XPRO", "Vitamax Healthcare","Antakshari",],
   "team":[
     {"initials":"IA","name":"Irshad Ali","role":"Founder"},
     {"initials":"SA","name":"Sarfaraz Ali","role":"RO Purification Lead"},
-    {"initials":"ZK","name":"Md. Zubair Khan","role":"Civil Engineer"},
+    {"initials":"ZK","name":"Md. Zubair Khan","role":"Civil Lead"},
     {"initials":"BA","name":"Meer Bilal Ali","role":"Solar Lead"},
     {"initials":"AA","name":"Meer Azmaan Ali","role":"Software Engineer"}
   ],
