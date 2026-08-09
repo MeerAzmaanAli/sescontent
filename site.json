@@ -122,7 +122,7 @@
     "gallery": []
   }
 ],
-  "clients":["IIT Indore","LNCT Group","CPWD Indore","AKVAN","Voltas","XPRO", "Vitamax Healthcare","Antakshari",],
+  "clients":["IIT Indore","LNCT Group","CPWD Indore","AKVAN","Voltas","XPRO", "Vitamax Healthcare","Antakshari"],
   "team":[
     {"initials":"IA","name":"Irshad Ali","role":"Founder"},
     {"initials":"SA","name":"Sarfaraz Ali","role":"RO Purification Lead"},
