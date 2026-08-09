@@ -7,5 +7,5 @@ The website first requests `window.SES_CONTENT_API_URL` when configured, then fa
 Example remote endpoint:
 
 ```html
-<script>window.SES_CONTENT_API_URL = 'https://content.example.com/site.json';</script>
+<script>window.SES_CONTENT_API_URL = 'https://meerazmaanali.github.io/sescontent/site.json';</script>
 ```

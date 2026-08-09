@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "company": {
+    "name": "Supreme Engineering Services",
+    "shortName": "SES",
+    "tagline": "MEP Contracting & Consultancy · Indore",
+    "phone": "+91 94253 20455",
+    "phoneHref": "+919425320455",
+    "email": "irshad@supremeengineeringservices.com",
+    "address": "25, Dilip Nagar, Khajrana, Indore, MP 452016"
+  },
+  "services": [
+    {"name":"Fire & Safety","summary":"Detection, suppression, sprinkler networks, and code-compliant fire protection systems.","icon":"◌"},
+    {"name":"HVAC","summary":"Heating, ventilation, and air conditioning engineered for load, airflow, and energy efficiency.","icon":"◉"},
+    {"name":"Cold Rooms & Storage","summary":"Refrigeration engineering and cold-chain infrastructure for storage and processing facilities.","icon":"◇"},
+    {"name":"Fabrication","summary":"Custom ducting, structural steel, and metal fabrication built to project-specific drawings.","icon":"╋"},
+    {"name":"Water Purification","summary":"RO and filtration systems for domestic and industrial use, sized and installed to demand.","icon":"⌁"},
+    {"name":"Electrical Works","summary":"Electrical panel installation, load planning, and wiring for commercial and industrial sites.","icon":"ϟ"},
+    {"name":"Solar","summary":"Solar panel installation and system design for domestic and industrial power needs.","icon":"✳"},
+    {"name":"IT — Software & Applications","summary":"Custom software and applications for internal operations and client-facing tools.","icon":"</>","status":"Coming soon"}
+  ],
+  "about": {
+    "heading":"Built on-site, not in a boardroom.",
+    "summary":"Supreme Engineering Services was founded to close the gap between design intent and what actually gets installed. We run every project as a single accountable scope — no finger-pointing between trades.",
+    "principles":[
+      {"title":"Single point of accountability","description":"One team owns design, procurement, and installation across every discipline we deliver."},
+      {"title":"Compliance-first documentation","description":"Drawings, calculations, and commissioning reports handed over at every milestone, not just at closeout."},
+      {"title":"In-house fabrication","description":"Ducting and structural work built to spec in-house, cutting lead time and third-party error."},
+      {"title":"Post-handover support","description":"Maintenance and AMC coverage after commissioning, so systems keep performing after we leave site."}
+    ]
+  },
+  "projects": [
+    {"discipline":"Fire & Safety","location":"Indore","title":"Warehouse Fire Suppression Retrofit","summary":"Full sprinkler and detection retrofit across a multi-bay logistics warehouse.","icon":"◌"},
+    {"discipline":"HVAC","location":"Indore","title":"Commercial Tower Central AC Design","summary":"End-to-end HVAC design and installation for a nine-floor commercial building.","icon":"◉"},
+    {"discipline":"Electrical","location":"Pithampur","title":"Factory Electrical Panel Overhaul","summary":"Load planning and panel installation across a mid-size manufacturing unit.","icon":"◇"},
+    {"discipline":"Water Purification","location":"Ujjain","title":"Industrial RO Plant Installation","summary":"High-capacity RO and filtration system for a food processing facility.","icon":"⌁"}
+  ],
+  "clients":["CLIENT NAME 01","CLIENT NAME 02","CLIENT NAME 03","CLIENT NAME 04","CLIENT NAME 05","CLIENT NAME 06"],
+  "team":[
+    {"initials":"IA","name":"Irshad Ali","role":"Founder"},
+    {"initials":"SA","name":"Sarfaraz Ali","role":"RO Purification Lead"},
+    {"initials":"ZK","name":"Md. Zubair Khan","role":"Civil Engineer"},
+    {"initials":"BA","name":"Meer Bilal Ali","role":"Solar Lead"},
+    {"initials":"AA","name":"Meer Azmaan Ali","role":"Software Engineer"}
+  ],
+  "posts":[
+    {"tag":"Fire & Safety","title":"What NBC 2016 actually requires for warehouse sprinklers","summary":"A practical breakdown of fire code compliance for storage facilities.","url":"blog-fire-safety.html"},
+    {"tag":"Electrical","title":"Sizing an electrical panel for future load growth","summary":"What to plan for before your panel becomes a bottleneck.","url":"blog-hvac.html"},
+    {"tag":"Water Purification","title":"Domestic vs. industrial RO — what actually changes","summary":"Capacity, maintenance, and compliance differences worth knowing.","url":"blog-cold-chain.html"}
+  ]
+}
