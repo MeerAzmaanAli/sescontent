@@ -122,7 +122,7 @@
     "gallery": []
   }
 ],
-  "clients":["IIT Indore","LNCT Group","CPWD Indore","AKVAN","Voltas","XPRO", "Vitamax Healthcare","Antakshari"],
+  "clients":["IIT Indore","LNCT Group","CPWD Indore","AKVAN","Voltas","XPRO", "Vitamax Healthcare","Antakshari", "MORE..."],
   "team":[
     {"initials":"IA","name":"Irshad Ali","role":"Founder & MEP Lead","bio":"Irshad Ali is a Electrical engineer with over 30 years of experience in MEP contracting and consultancy. He has led projects across India, specializing in fire safety, HVAC, Electricals, Cold Rooms & Storage and more."},
     {"initials":"SA","name":"Sarfaraz Ali","role":"Co-Founder & Water Purification Lead","bio":"Sarfaraz Ali is an expert in water purification systems, with a focus on RO and filtration technologies. He has successfully implemented water treatment solutions for both domestic and industrial clients."},
@@ -136,3 +136,4 @@
     {"tag":"Water Purification","title":"Domestic vs. industrial RO — what actually changes","summary":"Capacity, maintenance, and compliance differences worth knowing.","url":"blog-cold-chain.html"}
   ]
 }
+
