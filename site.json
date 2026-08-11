@@ -124,11 +124,11 @@
 ],
   "clients":["IIT Indore","LNCT Group","CPWD Indore","AKVAN","Voltas","XPRO", "Vitamax Healthcare","Antakshari"],
   "team":[
-    {"initials":"IA","name":"Irshad Ali","role":"Founder"},
-    {"initials":"SA","name":"Sarfaraz Ali","role":"RO Purification Lead"},
-    {"initials":"ZK","name":"Md. Zubair Khan","role":"Civil Lead"},
-    {"initials":"BA","name":"Meer Bilal Ali","role":"Solar Lead"},
-    {"initials":"AA","name":"Meer Azmaan Ali","role":"Software Engineer"}
+    {"initials":"IA","name":"Irshad Ali","role":"Founder & MEP Lead","bio":"Irshad Ali is a Electrical engineer with over 30 years of experience in MEP contracting and consultancy. He has led projects across India, specializing in fire safety, HVAC, Electricals, Cold Rooms & Storage and more."},
+    {"initials":"SA","name":"Sarfaraz Ali","role":"Co-Founder & Water Purification Lead","bio":"Sarfaraz Ali is an expert in water purification systems, with a focus on RO and filtration technologies. He has successfully implemented water treatment solutions for both domestic and industrial clients."},
+    {"initials":"ZK","name":"Md. Zubair Khan","role":"Civil Lead","bio":"Md. Zubair Khan is a civil engineer with extensive experience in structural design and construction management. He ensures that all civil works meet the highest standards of quality and compliance."},
+    {"initials":"BA","name":"Meer Bilal Ali","role":"Design Engineer & Solar Lead","bio":"Meer Bilal Ali specializes in solar energy systems and design engineering. He has designed and implemented solar solutions for various commercial and industrial projects."},
+    {"initials":"AA","name":"Meer Azmaan Ali","role":"Digital Operations & Software Engineer","bio":"Meer Azmaan Ali is a software engineer responsible for digital operations and developing custom Production grade applications to streamline project management and client interactions."}
   ],
   "posts":[
     {"tag":"Fire & Safety","title":"What NBC 2016 actually requires for warehouse sprinklers","summary":"A practical breakdown of fire code compliance for storage facilities.","url":"blog-fire-safety.html"},
