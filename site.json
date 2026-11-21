@@ -7,7 +7,55 @@
     "phone": "+91 94253 20455",
     "phoneHref": "+919425320455",
     "email": "irshad@supremeengineeringservices.com",
-    "address": "25, Dilip Nagar, Khajrana, Indore, MP 452016"
+    "address": "25, Dilip Nagar, Khajrana, Indore, MP 452016",
+    "website": "https://supremeengineeringservices.com"
+  },
+  "seo": {
+    "siteTitle": "Supreme Engineering Services | MEP Contracting & Consultancy Indore",
+    "defaultDescription": "Supreme Engineering Services (SES) is an MEP contracting and consultancy firm in Indore specializing in HVAC, Fire Fighting & Safety, Electrical, Cold Rooms, Piping, and Solar energy.",
+    "keywords": [
+      "MEP contracting",
+      "MEP consultancy Indore",
+      "HVAC system installation",
+      "Fire fighting and suppression systems",
+      "Electrical panel installation",
+      "Cold room storage engineering",
+      "Water purification RO industrial",
+      "Supreme Engineering Services",
+      "MEP contractor Madhya Pradesh"
+    ],
+    "openGraph": {
+      "type": "website",
+      "locale": "en_IN",
+      "siteName": "Supreme Engineering Services",
+      "image": "public/media/logo.png"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "EngineeringService",
+      "name": "Supreme Engineering Services",
+      "alternateName": "SES",
+      "url": "https://supremeengineeringservices.com",
+      "logo": "https://supremeengineeringservices.com/public/media/logo.png",
+      "image": "https://supremeengineeringservices.com/public/media/logo.png",
+      "telephone": "+91 94253 20455",
+      "email": "irshad@supremeengineeringservices.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "25, Dilip Nagar, Khajrana",
+        "addressLocality": "Indore",
+        "addressRegion": "Madhya Pradesh",
+        "postalCode": "452016",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.7244,
+        "longitude": 75.8839
+      },
+      "areaServed": ["Indore", "Bhopal", "Pithampur", "Madhya Pradesh", "India"],
+      "sameAs": []
+    }
   },
   "services": [
     {"name":"Fire & Safety","summary":"Detection, suppression, sprinkler networks, and code-compliant fire protection systems.","icon":"◌"},
@@ -30,98 +78,98 @@
     ]
   },
   "projects": [
-  {
-    "discipline": "Fire & Safety",
-    "location": "Indore",
-    "title": "SITC Fire and Safety System at Sevakunj Hospital, LNCT",
-    "summary": "Complete supply, installation, testing and commissioning of fire suppression pipeline, equipment, and pump room at Sevakunj Hospital LNCT.",
-    "icon": "◗",
-    "slug": "sitc-fire-safety-sevakunj-hospital-lnct-indore",
-    "status": "Delivered",
-    "scope": [
-      "Complete supply, installation, testing and commissioning of fire suppression pipeline, equipment, and pump room at Sevakunj Hospital LNCT."
-    ],
-    "gallery": []
-  },
-  {
-    "discipline": "HVAC",
-    "location": "Indore",
-    "title": "SITC HVAC System at IIT Indore",
-    "summary": "Supply, installation, testing and commissioning of HVAC system at IIT Indore.",
-    "icon": "◗",
-    "slug": "sitc-hvac-system-iit-indore",
-    "status": "Delivered",
-    "scope": [
-      "Supply, installation, testing and commissioning of HVAC system at IIT Indore."
-    ],
-    "gallery": []
-  },
-  {
-    "discipline": "Fire & Safety",
-    "location": "Indore",
-    "title": "SITC Fire and Safety System at IIT Indore",
-    "summary": "Supply, installation, testing and commissioning of fire and safety system including pump room at IIT Indore.",
-    "icon": "◗",
-    "slug": "sitc-fire-safety-system-iit-indore",
-    "status": "Delivered",
-    "scope": [
-      "Supply, installation, testing and commissioning of fire and safety system including pump room at IIT Indore."
-    ],
-    "gallery": []
-  },
-  {
-    "discipline": "HVAC",
-    "location": "Pithampur",
-    "title": "Pharma Lab PUFF Panel & HVAC System at Vitamax Healthcare",
-    "summary": "Construction of pharma lab using PUFF panels with supply, installation, testing and commissioning of HVAC system at Vitamax Healthcare, Pithampur.",
-    "icon": "◗",
-    "slug": "pharma-lab-puff-panel-hvac-vitamax-healthcare-pithampur",
-    "status": "Delivered",
-    "scope": [
-      "Construction of pharma lab using PUFF panels with supply, installation, testing and commissioning of HVAC system at Vitamax Healthcare, Pithampur."
-    ],
-    "gallery": []
-  },
-  {
-    "discipline": "Piping",
-    "location": "Indore",
-    "title": "Gas Line SITC at LK City",
-    "summary": "Supply, installation, testing and commissioning of gas line at LK City, Indore.",
-    "icon": "◗",
-    "slug": "gas-line-sitc-lk-city-indore",
-    "status": "Delivered",
-    "scope": [
-      "Supply, installation, testing and commissioning of gas line at LK City, Indore."
-    ],
-    "gallery": []
-  },
-  {
-    "discipline": "HVAC",
-    "location": "Indore",
-    "title": "Cold Room Storage at Bhartiya Enterprises",
-    "summary": "Supply, installation, testing and commissioning of cold room storage system for dates storage at Bhartiya Enterprises, Indore.",
-    "icon": "◗",
-    "slug": "cold-room-storage-bhartiya-enterprises-indore",
-    "status": "Delivered",
-    "scope": [
-      "Supply, installation, testing and commissioning of cold room storage system for dates storage at Bhartiya Enterprises, Indore."
-    ],
-    "gallery": []
-  },
-  {
-    "discipline": "Fire & Safety",
-    "location": "Bhopal",
-    "title": "SITC Fire and Safety System at JK Hospital, LNCT",
-    "summary": "Supply, installation, testing and commissioning of fire and safety system at JK Hospital LNCT, Bhopal.",
-    "icon": "◗",
-    "slug": "sitc-fire-safety-system-jk-hospital-lnct-bhopal",
-    "status": "Delivered",
-    "scope": [
-      "Supply, installation, testing and commissioning of fire and safety system at JK Hospital LNCT, Bhopal."
-    ],
-    "gallery": []
-  }
-],
+    {
+      "discipline": "Fire & Safety",
+      "location": "Indore",
+      "title": "SITC Fire and Safety System at Sevakunj Hospital, LNCT",
+      "summary": "Complete supply, installation, testing and commissioning of fire suppression pipeline, equipment, and pump room at Sevakunj Hospital LNCT.",
+      "icon": "◗",
+      "slug": "sitc-fire-safety-sevakunj-hospital-lnct-indore",
+      "status": "Delivered",
+      "scope": [
+        "Complete supply, installation, testing and commissioning of fire suppression pipeline, equipment, and pump room at Sevakunj Hospital LNCT."
+      ],
+      "gallery": []
+    },
+    {
+      "discipline": "HVAC",
+      "location": "Indore",
+      "title": "SITC HVAC System at IIT Indore",
+      "summary": "Supply, installation, testing and commissioning of HVAC system at IIT Indore.",
+      "icon": "◗",
+      "slug": "sitc-hvac-system-iit-indore",
+      "status": "Delivered",
+      "scope": [
+        "Supply, installation, testing and commissioning of HVAC system at IIT Indore."
+      ],
+      "gallery": []
+    },
+    {
+      "discipline": "Fire & Safety",
+      "location": "Indore",
+      "title": "SITC Fire and Safety System at IIT Indore",
+      "summary": "Supply, installation, testing and commissioning of fire and safety system including pump room at IIT Indore.",
+      "icon": "◗",
+      "slug": "sitc-fire-safety-system-iit-indore",
+      "status": "Delivered",
+      "scope": [
+        "Supply, installation, testing and commissioning of fire and safety system including pump room at IIT Indore."
+      ],
+      "gallery": []
+    },
+    {
+      "discipline": "HVAC",
+      "location": "Pithampur",
+      "title": "Pharma Lab PUFF Panel & HVAC System at Vitamax Healthcare",
+      "summary": "Construction of pharma lab using PUFF panels with supply, installation, testing and commissioning of HVAC system at Vitamax Healthcare, Pithampur.",
+      "icon": "◗",
+      "slug": "pharma-lab-puff-panel-hvac-vitamax-healthcare-pithampur",
+      "status": "Delivered",
+      "scope": [
+        "Construction of pharma lab using PUFF panels with supply, installation, testing and commissioning of HVAC system at Vitamax Healthcare, Pithampur."
+      ],
+      "gallery": []
+    },
+    {
+      "discipline": "Piping",
+      "location": "Indore",
+      "title": "Gas Line SITC at LK City",
+      "summary": "Supply, installation, testing and commissioning of gas line at LK City, Indore.",
+      "icon": "◗",
+      "slug": "gas-line-sitc-lk-city-indore",
+      "status": "Delivered",
+      "scope": [
+        "Supply, installation, testing and commissioning of gas line at LK City, Indore."
+      ],
+      "gallery": []
+    },
+    {
+      "discipline": "HVAC",
+      "location": "Indore",
+      "title": "Cold Room Storage at Bhartiya Enterprises",
+      "summary": "Supply, installation, testing and commissioning of cold room storage system for dates storage at Bhartiya Enterprises, Indore.",
+      "icon": "◗",
+      "slug": "cold-room-storage-bhartiya-enterprises-indore",
+      "status": "Delivered",
+      "scope": [
+        "Supply, installation, testing and commissioning of cold room storage system for dates storage at Bhartiya Enterprises, Indore."
+      ],
+      "gallery": []
+    },
+    {
+      "discipline": "Fire & Safety",
+      "location": "Bhopal",
+      "title": "SITC Fire and Safety System at JK Hospital, LNCT",
+      "summary": "Supply, installation, testing and commissioning of fire and safety system at JK Hospital LNCT, Bhopal.",
+      "icon": "◗",
+      "slug": "sitc-fire-safety-system-jk-hospital-lnct-bhopal",
+      "status": "Delivered",
+      "scope": [
+        "Supply, installation, testing and commissioning of fire and safety system at JK Hospital LNCT, Bhopal."
+      ],
+      "gallery": []
+    }
+  ],
   "clients":["IIT Indore","LNCT Group","CPWD Indore","AKVAN","Voltas","XPRO", "Vitamax Healthcare","Antakshari", "MORE..."],
   "team":[
     {"initials":"IA","name":"Irshad Ali","role":"Founder & MEP Lead","bio":"Irshad Ali is a Electrical engineer with over 30 years of experience in MEP contracting and consultancy. He has led projects across India, specializing in fire safety, HVAC, Electricals, Cold Rooms & Storage and more."},
@@ -131,9 +179,58 @@
     {"initials":"MA","name":"Meer Azmaan Ali","role":"Digital Operations & Software Engineer","bio":"Meer Azmaan Ali is a software engineer responsible for digital operations and developing custom Production grade applications to streamline project management and client interactions."}
   ],
   "posts":[
-    {"tag":"Fire & Safety","title":"What NBC 2016 actually requires for warehouse sprinklers","summary":"A practical breakdown of fire code compliance for storage facilities.","url":"blog-fire-safety.html"},
-    {"tag":"Electrical","title":"Sizing an electrical panel for future load growth","summary":"What to plan for before your panel becomes a bottleneck.","url":"blog-hvac.html"},
-    {"tag":"Water Purification","title":"Domestic vs. industrial RO — what actually changes","summary":"Capacity, maintenance, and compliance differences worth knowing.","url":"blog-cold-chain.html"}
+    {
+      "tag":"MEP Engineering",
+      "title":"What is MEP Engineering? The Nervous System of Modern Buildings",
+      "summary":"A comprehensive guide to Mechanical, Electrical, and Plumbing engineering, why integration matters, and code compliance in construction.",
+      "url":"blog/what-is-mep-engineering/",
+      "image":"public/media/mepblog1.jpg",
+      "readTime":"06 MIN READ",
+      "category":"Fire Fighting and HVAC",
+      "seo": {
+        "title": "What is MEP Engineering? Guide to Mechanical, Electrical & Plumbing | SES",
+        "description": "Understand what MEP Engineering is, how mechanical, electrical, and plumbing systems interact, and why unified MEP contracting prevents costly site delays.",
+        "keywords": ["what is mep engineering", "mep engineering indore", "mechanical electrical plumbing", "hvac fire fighting electrical"]
+      }
+    },
+    {
+      "tag":"Fire & Safety",
+      "title":"What NBC 2016 actually requires for warehouse sprinklers",
+      "summary":"A practical breakdown of fire code compliance for storage facilities.",
+      "url":"blog/fire-safety/",
+      "readTime":"05 MIN READ",
+      "category":"Fire & Safety",
+      "seo": {
+        "title": "Warehouse Sprinkler Requirements NBC 2016 | SES Field Notes",
+        "description": "Practical breakdown of fire protection systems, hydrant networks, and NBC 2016 compliance for industrial warehouses and commercial facilities.",
+        "keywords": ["NBC 2016 fire sprinkler", "warehouse fire protection", "fire fighting system indore"]
+      }
+    },
+    {
+      "tag":"Electrical",
+      "title":"Sizing an electrical panel for future load growth",
+      "summary":"What to plan for before your panel becomes a bottleneck.",
+      "url":"blog/hvac/",
+      "readTime":"04 MIN READ",
+      "category":"Electrical",
+      "seo": {
+        "title": "Sizing Electrical Panels for Future Load Growth | SES Field Notes",
+        "description": "Essential planning guidelines for electrical distribution panels, load calculations, and preventing bottlenecks in industrial facilities.",
+        "keywords": ["electrical panel sizing", "load growth planning", "commercial electrical installation"]
+      }
+    },
+    {
+      "tag":"Water Purification",
+      "title":"Domestic vs. industrial RO — what actually changes",
+      "summary":"Capacity, maintenance, and compliance differences worth knowing.",
+      "url":"blog/cold-chain/",
+      "readTime":"04 MIN READ",
+      "category":"Water Purification",
+      "seo": {
+        "title": "Domestic vs Industrial RO Water Purification | SES Field Notes",
+        "description": "Key technical differences in membrane capacity, flow rates, pre-treatment, and compliance between domestic and commercial RO systems.",
+        "keywords": ["industrial RO vs domestic", "water treatment plant indore", "commercial RO system"]
+      }
+    }
   ]
 }
-
